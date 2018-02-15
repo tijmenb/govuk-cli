@@ -8,6 +8,10 @@ A CLI for GOV.UK. See `govuk help` for commands.
 $ gem install govuk-cli
 ```
 
+## Development
+
+Run the tests with `rake test`.
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/tijmenb/govuk-cli.
